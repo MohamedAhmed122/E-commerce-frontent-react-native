@@ -1,5 +1,5 @@
 node_modules/**/*
-node_modulesgit init
+node_modules
 .expo/*
 npm-debug.*
 *.jks
@@ -8,6 +8,21 @@ npm-debug.*
 *.key
 *.mobileprovision
 *.orig.*
+web-build/
+
+# macOS
+.DS_Store
+
+node_modules/**/*
+node_modules
+.expo/*
+npm-debug/.*
+*.jks/
+*.p8//
+*.p12/
+*.key/
+*.mobileprovision/
+*.orig.*/
 web-build/
 
 # macOS
